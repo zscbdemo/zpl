@@ -1,0 +1,4 @@
+^XA
+^DFE:autoexec.ZPL^FS
+^XFE:SOL_BRNO_BATCH.ZPL^FS
+^XZ
