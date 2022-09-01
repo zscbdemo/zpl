@@ -4,7 +4,7 @@
 ~TA000
 ~JSN
 ^LT0
-^MNW
+^MNN
 ^MTD
 ^PON
 ^PMN
